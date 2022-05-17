@@ -4,7 +4,7 @@ basic everyday objects. (people, tv, bottle, chair) ect.
 
 A basic running demonstration of the program can be seen here:
 
-<p><img align="center" alt="gif" src="https://github.com/cgriffs/Basic_CV_Object_Detection_React/blob/master/CVBasicObjectDetections.gif" /><p>
+<p><img align="left" alt="gif" src="https://github.com/cgriffs/Basic_CV_Object_Detection_React/blob/master/CVBasicObjectDetections.gif" /><p>
 
 
 ## Available Scripts
